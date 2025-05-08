@@ -47,4 +47,3 @@ async def predict(data: HeartDiseaseInput):
 
 
 
-
