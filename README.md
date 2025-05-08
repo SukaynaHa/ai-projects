@@ -4,8 +4,10 @@
 This is an AI-powered web application that predicts the **risk of heart disease** based on user health data.  
 It combines a Streamlit interface with a FastAPI backend to deliver fast and interactive predictions.
 
-![Project Image](https://pixabay.com/vectors/hearth-liver-medic-hearth-stroke-1674896/)
+![Project Image](images/imgHeart.png)
 
+git commit -m "Update README to use local image"
+git push
 
 
 ## 🔍 Features
