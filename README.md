@@ -6,9 +6,6 @@ It combines a Streamlit interface with a FastAPI backend to deliver fast and int
 
 ![Project Image](images/imgHeart.png)
 
-git commit -m "Update README to use local image"
-git push
-
 
 ## 🔍 Features
 
